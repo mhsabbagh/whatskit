@@ -1,7 +1,4 @@
 from distutils.core import setup
-from subprocess import call
-from glob import glob
-from os.path import splitext, split
 
 data_files = [ ("share/whatskit", ["ui/ui.glade"]),
                     ("share/pixmaps", ["data/whatskit.png"]),
