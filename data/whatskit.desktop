@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=WhatsKit
+GenericName=WhatsKit
+Comment=A standalone desktop window for web.whatsapp.com
+Exec=whatskit
+Terminal=false
+Type=Application
+Icon=whatskit
+Categories=GTK;Network;
+StartupNotify=false
